@@ -1,0 +1,21 @@
+/* Inside Container */
+span{
+    border: 1px solid #dddddd;
+    padding: 6px 12px;
+    padding-bottom: 7px;
+} 
+.left__btn{
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin-right: -4px;
+}
+.right__btn{
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    margin-left: -4px;
+}
+button{
+    background-color: #eeeeee;
+    border-color: #dddddd;
+    padding: 7px 12px;
+}
